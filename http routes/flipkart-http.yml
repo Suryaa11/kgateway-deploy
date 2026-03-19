@@ -19,4 +19,4 @@ spec:
               replacePrefixMatch: /flipkart
       backendRefs:
         - name: flipkart-svc
-          port: 80
+          port: 81
